@@ -1,6 +1,6 @@
 {
   "name": "@tetris/serialize-error",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "error serialization",
   "main": "index.js",
   "repository": {
